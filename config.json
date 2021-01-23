@@ -1,0 +1,7 @@
+{
+    "token": "Your Discord bot Token",
+    "db": {
+        "host": "the IP of your remote MySQL database",
+        "password": "the password of your remote MySQL database"
+    }
+}
