@@ -1,0 +1,16 @@
+{
+  "name": "calmsysbot",
+  "version": "1.0.0",
+  "description": "A Discord bot for The Calm System's server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mesa#0101",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mysql": "^2.18.1",
+    "winston": "^3.3.3"
+  }
+}
